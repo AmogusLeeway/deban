@@ -1,1 +1,1 @@
-npx gritty --port 8000 --command "bash ./ReplRoot/boot.sh" --auto-restart
+npx gritty --port 8000 --command "bash ./ReplRoot/boot.sh" --auto-restart 
