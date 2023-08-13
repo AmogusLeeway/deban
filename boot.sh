@@ -1,4 +1,3 @@
-rm -rf message.js README.md todo.txt video.mp4
 if [ -d "./sys" ] 
 then
 ./dist/proot -S . /bin/bash
